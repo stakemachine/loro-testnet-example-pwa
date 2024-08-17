@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@stake-machine/pwa-test-2342",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": "https://github.com/stakemachine/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
